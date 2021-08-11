@@ -15,3 +15,6 @@
 
 ## Mekanism
 - https://wiki.aidancbrady.com/wiki/Mekanism
+
+## Botania
+- https://botaniamod.net

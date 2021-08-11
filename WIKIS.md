@@ -24,3 +24,6 @@
 
 ## JEI
 - https://github.com/mezz/JustEnoughItems/wiki
+
+## JourneyMap
+- https://journeymap.info/Home

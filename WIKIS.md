@@ -18,3 +18,6 @@
 
 ## Botania
 - https://botaniamod.net
+
+## Quark
+- https://quarkmod.net/

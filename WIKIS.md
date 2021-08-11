@@ -21,3 +21,6 @@
 
 ## Quark
 - https://quarkmod.net/
+
+## JEI
+- https://github.com/mezz/JustEnoughItems/wiki

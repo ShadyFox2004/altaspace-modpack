@@ -11,3 +11,6 @@
 
 ## Patchoulis
 - https://github.com/VazkiiMods/Patchouli/wiki
+
+## Mekanism
+- https://wiki.aidancbrady.com/wiki/Mekanism

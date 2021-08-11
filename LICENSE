@@ -22,3 +22,7 @@ OpenComputers :
 Patchouli:
   Wiki: https://github.com/VazkiiMods/Patchouli/wiki
   Owner:  VazkiiMods
+
+Mekanism:
+  Source: https://github.com/mekanism/mekanism
+  Liscense: MIT

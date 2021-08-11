@@ -5,6 +5,7 @@
 
 ## CC:tweaked
 - https://tweaked.cc/
+- https://tweaked.cc/javadoc/
 
 ## Opencomputers
 - https://ocdoc.cil.li/

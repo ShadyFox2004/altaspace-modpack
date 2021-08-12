@@ -1,4 +1,4 @@
-# The wiki, without having to search the entire internet !
+# The wiki, without having to search the entire internet ! s
 
 ## Applied Energistics 2
 - https://ae-mod.info/
